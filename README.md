@@ -8,3 +8,4 @@
     - Quest01 - Quest05 : 1번 과제, 점프 투 자바 문제풀이
     - Study > Person : 스터디 중 예제 코드 따라하기
     - MemberClass > Car : 2번 과제, 멤버 변수 및 함수를 포함한 클래스 생성 및 객체 활용
+ 4. [4일차 과제](https://github.com/dlams/JavaMentoring/tree/main/day04) | `스터디 4일차 과제 - 카톡방을 통해 전달됨` 
