@@ -9,3 +9,7 @@
     - Study > Person : 스터디 중 예제 코드 따라하기
     - MemberClass > Car : 2번 과제, 멤버 변수 및 함수를 포함한 클래스 생성 및 객체 활용
  4. [4일차 과제](https://github.com/dlams/JavaMentoring/tree/main/day04) | `스터디 4일차 과제 - 카톡방을 통해 전달됨` 
+ 
+ 5. [5일차 과제](https://github.com/dlams/JavaMentoring/tree/main/day05) | `스터디 5일차 과제 - 다향성..?`
+ 6. [6일차 과제](https://github.com/dlams/JavaMentoring/tree/main/day06) | `스터디 6일차 과제 - 종합..?` 
+ 
